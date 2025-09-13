@@ -43,6 +43,6 @@ The dashboard provides a **360° view of sales performance**, enabling stakehold
 
 - **Snacks & Beverages** dominate sales, suggesting strong consumer demand in quick‑consumption categories.  
 - **Small outlets** make up over half of the network but may have lower per‑store revenue potential.  
-- **Year‑over‑year growth** is visible in most categories, but some (e.g., Dairy, Frozen) show stagnation.  
+- **Year‑over‑year growth** is visible in most categories, but some (e.g., Dairy, instant food) show stagnation.  
 - **Top cities** like Hydrabad and Bangluru contribute a significant share of revenue, indicating potential for targeted marketing.
    
